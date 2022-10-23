@@ -2,7 +2,6 @@
 
 ![version](https://pandorafms.com/blog/wp-content/uploads/2018/05/que-es-un-algoritmo-featured.png) 
 
-<p align="center"><img src="https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/img/Logo.jpg" height="350px"></p>
 
 *Blue Py - IDE* El proyecto consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programación Python; que busca principalmente apoyar la enseñanza y el aprendizaje de la Programación Orientada a Objetos (POO) en el lenguaje de programación Python.
  
