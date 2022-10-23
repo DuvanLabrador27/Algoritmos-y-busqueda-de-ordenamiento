@@ -36,5 +36,6 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
  ## Autores 
 * CARLOS DUVAN LABRADOR H-1151808
+* JUAN DIEGO CELIS BLANCO-1151876
  
 
