@@ -1,5 +1,4 @@
-# Algoritmos-y-busqueda-de-ordenamiento
-# BLUE PY - IDE :computer:
+# ALGORITMOS DE BUSQUEDA Y ORDENAMIENTO :computer:
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
