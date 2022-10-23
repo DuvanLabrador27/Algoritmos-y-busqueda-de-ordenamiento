@@ -2,16 +2,9 @@
 
 ![version](https://pandorafms.com/blog/wp-content/uploads/2018/05/que-es-un-algoritmo-featured.png) 
 
-
-*Blue Py - IDE* El proyecto consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programación Python; que busca principalmente apoyar la enseñanza y el aprendizaje de la Programación Orientada a Objetos (POO) en el lenguaje de programación Python.
- 
-El entorno muestra gráficamente la estructura de clases de una aplicación en desarrollo, los objetos pueden ser creados y probados interactivamente; contando con una interfaz de usuario simple, que facilita la interacción y permite experimentar con los objetos en desarrollo dentro de los conceptos de la Programación Orientada a Objetos tales como clases, objetos, comunicación a través de llamadas a métodos, entre otros.
-
-
-
 ## Tabla de Contenido
 
-* [Requerimientos :page_facing_up:](#requerimientos)
+* [Seleccionar 5 algoritmos de ordenamiento y 3 algoritmos de búsqueda. :page_facing_up:](#requerimientos)
 * [Objetivos :trophy:](#objetivos)
 * [Arquitectura :memo:](#diagrama-de-clases)
 * [Diagrama de clases :memo:](#arquitectura)
