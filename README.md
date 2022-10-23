@@ -1,6 +1,6 @@
 # ALGORITMOS DE BUSQUEDA Y ORDENAMIENTO :computer:
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
+![version](https://pandorafms.com/blog/wp-content/uploads/2018/05/que-es-un-algoritmo-featured.png) 
 
 <p align="center"><img src="https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/img/Logo.jpg" height="350px"></p>
 
