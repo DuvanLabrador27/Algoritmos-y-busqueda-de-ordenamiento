@@ -5,7 +5,7 @@
 ## Tabla de Contenido
 
 * [Seleccionar 5 algoritmos de ordenamiento y 3 algoritmos de búsqueda. :memo:](#requerimientos)
-* Implementar estos 5 algoritmos en 5 lenguajes de programación :memo:](#objetivos)
+* [Implementar estos 5 algoritmos en 5 lenguajes de programación :memo:](#objetivos)
 * [Probar y medir estos algoritmos en estos lenguajes para conjuntos de datos generados aleatoriamente. :memo:](#diagrama-de-clases)
 * [Estado inicial de los datos :memo:](#arquitectura)
 * [Algoritmos de búsqueda y ordenamiento disponibles de manera nativa.  :memo:](#herramientas-utilizadas)
