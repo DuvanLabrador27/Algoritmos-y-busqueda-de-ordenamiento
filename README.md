@@ -33,6 +33,6 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
 
  ## Autores 
-*[CARLOS DUVAN LABRADOR H-1151808]
+* [CARLOS DUVAN LABRADOR H-1151808]
  
 
