@@ -19,7 +19,7 @@
 
 ## Herramientas Utilizadas 
 
-_Las herramientas utilizadas para el desarrollo del proyecto fueron:_
+_Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 * [Java](https://www.java.com/es/) - Lenguaje de Programación
 * [Python](https://www.python.org) - Lenguaje de Programación
