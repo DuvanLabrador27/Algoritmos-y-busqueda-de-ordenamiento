@@ -25,11 +25,14 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 * [Python](https://www.python.org) - Lenguaje de Programación
 
 
-<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px> <img src=""></p>
+<p
+   align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px>
+ 
+</p>
 
 
 
  ## Autores 
-*CARLOS DUVAN LABRADOR H-1151808
+*[CARLOS DUVAN LABRADOR H-1151808]
  
 
