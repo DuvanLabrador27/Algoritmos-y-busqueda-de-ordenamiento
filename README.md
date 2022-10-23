@@ -4,14 +4,13 @@
 
 ## Tabla de Contenido
 
-* [Seleccionar 5 algoritmos de ordenamiento y 3 algoritmos de búsqueda. :page_facing_up:](#requerimientos)
-* [Objetivos :trophy:](#objetivos)
-* [Arquitectura :memo:](#diagrama-de-clases)
-* [Diagrama de clases :memo:](#arquitectura)
-* [Herramientas Utilizadas :hammer_and_wrench:](#herramientas-utilizadas)
-* [Estructura :card_index_dividers:](#estructura)
-* [Recursos :bookmark_tabs: :adult:](#recursos)
-* [Autores :black_nib:](#autores)
+* [Seleccionar 5 algoritmos de ordenamiento y 3 algoritmos de búsqueda. :memo:](#requerimientos)
+* Implementar estos 5 algoritmos en 5 lenguajes de programación :memo:](#objetivos)
+* [Probar y medir estos algoritmos en estos lenguajes para conjuntos de datos generados aleatoriamente. :memo:](#diagrama-de-clases)
+* [Estado inicial de los datos :memo:](#arquitectura)
+* [Algoritmos de búsqueda y ordenamiento disponibles de manera nativa.  :memo:](#herramientas-utilizadas)
+* [Recursos :memo:](#recursos)
+* [Autores :memo:](#autores)
 
 
 
