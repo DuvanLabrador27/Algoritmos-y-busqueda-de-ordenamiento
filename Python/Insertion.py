@@ -25,6 +25,7 @@ def ordenPorInsercion(lista):
 def mostrarLista(lista):
     for numero in lista:
         print(numero)
+        
 lista=insertarNumero()
 lista=ordenPorInsercion(lista)
 print("Lista ordenada por insercion")
