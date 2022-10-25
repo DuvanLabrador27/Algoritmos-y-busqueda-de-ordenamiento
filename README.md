@@ -4,12 +4,8 @@
 
 ## Tabla de Contenido
 
-* [Seleccionar 3 algoritmos de ordenamiento y 2 algoritmos de búsqueda. :memo:](#AlgoritmosUtilizados)
-* [Implementar estos 3 algoritmos en 2 lenguajes de programación :memo:](#objetivos)
-* [Probar y medir estos algoritmos en estos lenguajes para conjuntos de datos generados aleatoriamente. :memo:](#diagrama-de-clases)
-* [Estado inicial de los datos :memo:](#arquitectura)
-* [Algoritmos de búsqueda y ordenamiento disponibles de manera nativa.  :memo:](#herramientas-utilizadas)
-* [Recursos :memo:](#recursos)
+* [Algoritmos Utilizados. :memo:](#Algoritmos Utilizados)
+* [Herramientas Utilizadas :memo:](#Herramientas Utilizadas)
 * [Autores :memo:](#autores)
 * [Bibliografía :memo:](#bibliografía)
 
