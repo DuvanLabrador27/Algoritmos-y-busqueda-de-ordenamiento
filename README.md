@@ -11,6 +11,7 @@
 * [Algoritmos de búsqueda y ordenamiento disponibles de manera nativa.  :memo:](#herramientas-utilizadas)
 * [Recursos :memo:](#recursos)
 * [Autores :memo:](#autores)
+* [Bibliografía :memo:](#bibliografía)
 
 
 
