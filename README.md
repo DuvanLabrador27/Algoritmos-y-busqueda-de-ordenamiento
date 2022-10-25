@@ -24,6 +24,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 * [Java](https://www.java.com/es/) - Lenguaje de Programación
 * [Python](https://www.python.org) - Lenguaje de Programación
 * [C++](https://isocpp.org/) - Lenguaje de Programación
+* [Go](https://go.dev) - Lenguaje de Programación
 
 
 <p
@@ -39,5 +40,6 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 * JUAN DIEGO CELIS BLANCO - 1151876
 * MARLON STIVEN PRADO R   - 1151914
 * DOUGLAS ARLEY ALVAREZ O - 1151923
+* SAID FERNANDO LOPEZ G - 1151925
  
 
