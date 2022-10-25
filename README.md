@@ -35,8 +35,9 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 
  ## Autores 
-* CARLOS DUVAN LABRADOR H-1151808
-* JUAN DIEGO CELIS BLANCO-1151876
-* Marlon Stiven Prado - 1151914
+* CARLOS DUVAN LABRADOR H - 1151808
+* JUAN DIEGO CELIS BLANCO - 1151876
+* MARLON STIVEN PRADO R   - 1151914
+* DOUGLAS ARLEY ALVAREZ O - 1151923
  
 
