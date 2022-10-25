@@ -26,7 +26,6 @@ def mostrarLista(lista):
     for i in range(0,tam):
         print(f"{lista[i]}")
 
-
 lista=pedirDatos()
 lista=burbuja(lista)
 mostrarLista(lista)
