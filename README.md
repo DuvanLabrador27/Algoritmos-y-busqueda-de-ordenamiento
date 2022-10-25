@@ -17,11 +17,11 @@
 
 ## Algoritmos Utilizados
 _Los algoritmos utilizados para el desarrollo del trabajo fueron:_
-* [Insertion] - Algoritmo de ordenamiento
-* [Selection] - Algoritmo de ordenamiento
-* [Bubble] - Algoritmo de ordenamiento
-* [Binary Search] - Algoritmo de busqueda 
-* [Secuencial] - Algoritmo de busqueda
+* <b> Insertion </b> - Algoritmo de ordenamiento
+* <b> Selection </b> - Algoritmo de ordenamiento
+* <b> Bubble </b> - Algoritmo de ordenamiento
+* <b> Binary Search </b> - Algoritmo de busqueda 
+* <b> Secuencial </b> - Algoritmo de busqueda
 
 
 ## Herramientas Utilizadas 
