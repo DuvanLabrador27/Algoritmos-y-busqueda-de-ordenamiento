@@ -30,7 +30,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 <p
    align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px>
    <img src="https://isocpp.org/assets/images/cpp_logo.png" width="68" height="64" >
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="68" height="64" >
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="80" height="64" >
  
 </p>
 
