@@ -51,7 +51,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 * SAID FERNANDO LOPEZ G - 1151925
 
  ## Bibliografía  
-* Algoritmos de <b> python </b> tomados del canal de youtube <b> PROGRAMADOR NOVATO </b> (https://www.youtube.com/c/programadornovato)
+* Algoritmos de <b> python </b> tomados del canal de youtube <b> [PROGRAMADOR NOVATO](https://www.youtube.com/c/programadornovato) </b> 
 * JUAN DIEGO CELIS BLANCO - 1151876
 * MARLON STIVEN PRADO R   - 1151914
 * DOUGLAS ARLEY ALVAREZ O - 1151923
