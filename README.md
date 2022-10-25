@@ -52,7 +52,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
  ## Bibliografía  
 * Algoritmos de <b> python </b> tomados del canal de youtube <b> [PROGRAMADOR NOVATO](https://www.youtube.com/c/programadornovato) </b> 
-* Algoritmos de <b> C++ </b> tomados de: <b> [Burbuja](https://conclase.net/c/orden/burbuja), [Seleccion](https://www.ecured.cu/Algoritmo_de_ordenamiento_por_selecci%C3%B3n), [Insersion](https://conclase.net/c/orden/insercion), [Busqueda Lineal](http://codigogx.blogspot.com/2016/10/capitulo-74-busqueda-lineal-en-c.html), [Busqueda Binaria](https://www.youtube.com/watch?v=pxh4QFzDh-Q). </b> 
+* Algoritmos de <b> C++ </b> referencias --> <b> [Burbuja](https://conclase.net/c/orden/burbuja), [Seleccion](https://www.ecured.cu/Algoritmo_de_ordenamiento_por_selecci%C3%B3n), [Insersion](https://conclase.net/c/orden/insercion), [Busqueda Lineal](http://codigogx.blogspot.com/2016/10/capitulo-74-busqueda-lineal-en-c.html), [Busqueda Binaria](https://www.youtube.com/watch?v=pxh4QFzDh-Q). </b> 
 * MARLON STIVEN PRADO R   - 1151914
 * DOUGLAS ARLEY ALVAREZ O - 1151923
 * SAID FERNANDO LOPEZ G - 1151925
