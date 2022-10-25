@@ -4,8 +4,8 @@
 
 ## Tabla de Contenido
 
-* [Algoritmos Utilizados :memo:](#AlgoritmosUtilizados)
-* [Herramientas Utilizadas :memo:](#HerramientasUtilizadas)
+* [Algoritmos Utilizados :memo:](#algoritmosutilizados)
+* [Herramientas Utilizadas :memo:](#herramientasutilizadas)
 * [Autores :memo:](#autores)
 * [Bibliografía :memo:](#bibliografía)
 
