@@ -19,6 +19,7 @@ def burbuja(lista):
                 lista[j]=lista[j+1]
                 lista[j+1]=aux
     return lista
+    
 def mostrarLista(lista):
     tam=len(lista)
     print("Lista ordenada por burbuja:")
