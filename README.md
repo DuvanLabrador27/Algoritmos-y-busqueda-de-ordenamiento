@@ -4,14 +4,14 @@
 
 ## Tabla de Contenido
 
-* [Algoritmos Utilizados :memo:](#algoritmosutilizados)
-* [Herramientas Utilizadas :memo:](#autores)
+* [Algoritmos Utilizados :memo:](#Algoritmos)
+* [Herramientas Utilizadas :memo:](#Herramientas)
 * [Autores :memo:](#autores)
 * [Bibliografía :memo:](#bibliografía)
 
 
 
-## Algoritmos Utilizados
+## Algoritmos
 _Los algoritmos utilizados para el desarrollo del trabajo fueron:_
 * <b> Insertion </b> - Algoritmo de ordenamiento
 * <b> Selection </b> - Algoritmo de ordenamiento
@@ -20,7 +20,7 @@ _Los algoritmos utilizados para el desarrollo del trabajo fueron:_
 * <b> Secuencial </b> - Algoritmo de busqueda
 
 
-## Herramientas Utilizadas 
+## Herramientas 
 
 _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
