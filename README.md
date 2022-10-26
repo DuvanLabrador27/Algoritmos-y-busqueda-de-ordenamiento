@@ -26,7 +26,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 * [Java](https://www.java.com/es/) - Lenguaje de Programación
 * [Python](https://www.python.org) - Lenguaje de Programación
-* [C++](https://isocpp.org/) - Lenguaje de Programación
+* [C++](https://learn.microsoft.com/es-es/cpp/cpp/?view=msvc-170) - Lenguaje de Programación
 * [Go](https://go.dev) - Lenguaje de Programación 
 * [Javascript](https://www.javascript.com) - Lenguaje de Programación
 
