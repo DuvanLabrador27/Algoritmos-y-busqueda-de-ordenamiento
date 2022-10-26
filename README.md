@@ -51,6 +51,6 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 * Algoritmos de <b> C++ </b> tomados de <b> [BURBUJA](https://conclase.net/c/orden/burbuja), [SELECCIÓN](https://www.ecured.cu/Algoritmo_de_ordenamiento_por_selecci%C3%B3n), [INSERCIÓN](https://conclase.net/c/orden/insercion), [BUSQUEDA LINEAL](http://codigogx.blogspot.com/2016/10/capitulo-74-busqueda-lineal-en-c.html), [BUSQUEDA BINARIA](https://www.youtube.com/watch?v=pxh4QFzDh-Q). </b> 
 * Algoritmos de <b>Javascript </b> tomados de <b> [The Algorithms](https://the-algorithms.com/es) y [Busqueda Binaria de  Alberta Williams](https://code.tutsplus.com/es/tutorials/the-binary-search-algorithm-in-javascript--cms-30003)
 * Algoritmos de <b> java </b> tomados del canal de youtube <b> [Programación ATS](https://www.youtube.com/c/ProgramaciónATS) / [PROGRAMADOR NOVATO](https://www.youtube.com/c/programadornovato) </b> 
-* SAID FERNANDO LOPEZ G - 1151925
+*  Algoritmos de <b> GO </b> tomados del canal de youtube <b> [Chio Code](https://www.youtube.com/c/ChioCode) </b>
  
 
