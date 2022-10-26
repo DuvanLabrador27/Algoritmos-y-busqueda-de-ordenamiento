@@ -38,6 +38,9 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 </p>
 
 
+## Casos de Prueba de JS
+_Puedes visualizar las pruebas documentadas, ejecutadas y descritas de la documentacion en el siguiente enlace:_
+*[Casos de Prueba JS](https://replit.com/@MARLON-STIVENS1/Algoritmos-de-Ordenamiento-y-Busqueda?v=1)
 
  ## Autores 
 * CARLOS DUVAN LABRADOR H - 1151808
