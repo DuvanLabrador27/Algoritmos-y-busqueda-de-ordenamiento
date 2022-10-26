@@ -4,14 +4,14 @@
 
 ## Tabla de Contenido
 
-* [Algoritmos Utilizados :memo:](#algoritmosutilizados)
-* [Herramientas Utilizadas :memo:](#autores)
+* [Algoritmos Utilizados :memo:](#Algoritmos)
+* [Herramientas Utilizadas :memo:](#Herramientas)
 * [Autores :memo:](#autores)
 * [Bibliografía :memo:](#bibliografía)
 
 
 
-## Algoritmos Utilizados
+## Algoritmos
 _Los algoritmos utilizados para el desarrollo del trabajo fueron:_
 * <b> Insertion </b> - Algoritmo de ordenamiento
 * <b> Selection </b> - Algoritmo de ordenamiento
@@ -20,13 +20,13 @@ _Los algoritmos utilizados para el desarrollo del trabajo fueron:_
 * <b> Secuencial </b> - Algoritmo de busqueda
 
 
-## Herramientas Utilizadas 
+## Herramientas 
 
 _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 * [Java](https://www.java.com/es/) - Lenguaje de Programación
 * [Python](https://www.python.org) - Lenguaje de Programación
-* [C++](https://isocpp.org/) - Lenguaje de Programación
+* [C++](https://learn.microsoft.com/es-es/cpp/cpp/?view=msvc-170) - Lenguaje de Programación
 * [Go](https://go.dev) - Lenguaje de Programación 
 * [Javascript](https://www.javascript.com) - Lenguaje de Programación
 
@@ -38,6 +38,9 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 </p>
 
 
+## Casos de Prueba de JS
+_Puedes visualizar las pruebas documentadas, ejecutadas y descritas de la documentacion en el siguiente enlace:_
+*[Casos de Prueba JS](https://replit.com/@MARLON-STIVENS1/Algoritmos-de-Ordenamiento-y-Busqueda?v=1)
 
  ## Autores 
 * CARLOS DUVAN LABRADOR H - 1151808
@@ -47,10 +50,11 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 * SAID FERNANDO LOPEZ G - 1151925
 
  ## Bibliografía  
-* Algoritmos de <b> python </b> tomados del canal de youtube <b> [PROGRAMADOR NOVATO](https://www.youtube.com/c/programadornovato) </b> 
-* Algoritmos de <b> C++ </b> tomados de <b> [BURBUJA](https://conclase.net/c/orden/burbuja), [SELECCIÓN](https://www.ecured.cu/Algoritmo_de_ordenamiento_por_selecci%C3%B3n), [INSERCIÓN](https://conclase.net/c/orden/insercion), [BUSQUEDA LINEAL](http://codigogx.blogspot.com/2016/10/capitulo-74-busqueda-lineal-en-c.html), [BUSQUEDA BINARIA](https://www.youtube.com/watch?v=pxh4QFzDh-Q). </b> 
-* Algoritmos de <b>Javascript </b> tomados de <b> [The Algorithms](https://the-algorithms.com/es) y [Busqueda Binaria de  Alberta Williams](https://code.tutsplus.com/es/tutorials/the-binary-search-algorithm-in-javascript--cms-30003)
-* DOUGLAS ARLEY ALVAREZ O - 1151923
-* SAID FERNANDO LOPEZ G - 1151925
+ 
+* Algoritmos de <b> python </b> tomados del canal de youtube <b> [Programador Novato](https://www.youtube.com/c/programadornovato). </b> 
+* Algoritmos de <b> C++ </b> tomados de <b> [Burbuja](https://conclase.net/c/orden/burbuja), [Selección](https://www.ecured.cu/Algoritmo_de_ordenamiento_por_selecci%C3%B3n), [Inserción](https://conclase.net/c/orden/insercion), [Búsqueda lineal](http://codigogx.blogspot.com/2016/10/capitulo-74-busqueda-lineal-en-c.html) y [Búsqueda binaria](https://www.youtube.com/watch?v=pxh4QFzDh-Q). </b> 
+* Algoritmos de <b>Javascript </b> tomados de <b> [The Algorithms](https://the-algorithms.com/es) y [Busqueda Binaria de  Alberta Williams](https://code.tutsplus.com/es/tutorials/the-binary-search-algorithm-in-javascript--cms-30003).
+* Algoritmos de <b> java </b> tomados del canal de youtube <b> [Programación ATS](https://www.youtube.com/c/ProgramaciónATS) / [PROGRAMADOR NOVATO](https://www.youtube.com/c/programadornovato). </b> 
+*  Algoritmos de <b> GO </b> tomados del canal de youtube <b> [Chio Code](https://www.youtube.com/c/ChioCode).</b>
  
 
