@@ -50,6 +50,7 @@ _Puedes visualizar las pruebas documentadas, ejecutadas y descritas de la docume
 * SAID FERNANDO LOPEZ G - 1151925
 
  ## Bibliografía  
+ 
 * Algoritmos de <b> python </b> tomados del canal de youtube <b> [Programador Novato](https://www.youtube.com/c/programadornovato) </b> 
 * Algoritmos de <b> C++ </b> tomados de <b> [Burbuja](https://conclase.net/c/orden/burbuja), [Selección](https://www.ecured.cu/Algoritmo_de_ordenamiento_por_selecci%C3%B3n), [Inserción](https://conclase.net/c/orden/insercion), [Búsqueda lineal](http://codigogx.blogspot.com/2016/10/capitulo-74-busqueda-lineal-en-c.html), [Búsqueda binaria](https://www.youtube.com/watch?v=pxh4QFzDh-Q). </b> 
 * Algoritmos de <b>Javascript </b> tomados de <b> [The Algorithms](https://the-algorithms.com/es) y [Busqueda Binaria de  Alberta Williams](https://code.tutsplus.com/es/tutorials/the-binary-search-algorithm-in-javascript--cms-30003)
