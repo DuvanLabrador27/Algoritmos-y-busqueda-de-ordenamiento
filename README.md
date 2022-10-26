@@ -40,6 +40,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 </p>
 
 ## Documentacion
+_Puedes visualizar las pruebas documentadas, ejecutadas y descritas de la documentacion en el siguiente enlace:_
 * [Algoritmos de Búsqueda y Ordenamiento](https://drive.google.com/file/d/1VXDqfPXXJB3zkoH60x_QFmDeX8_B4Boa/view?usp=sharing)
 
 ## Casos de Prueba de JS
