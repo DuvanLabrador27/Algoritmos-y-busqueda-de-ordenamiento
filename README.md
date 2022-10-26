@@ -8,6 +8,7 @@
 * [Herramientas Utilizadas :memo:](#Herramientas)
 * [Documentacion :memo:](#Documentacion)
 * [Autores :memo:](#autores)
+* [Conclusiones :memo:](#Conclusiones)
 * [Bibliografía :memo:](#bibliografía)
 
 
