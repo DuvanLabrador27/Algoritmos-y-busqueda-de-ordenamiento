@@ -6,6 +6,7 @@
 
 * [Algoritmos Utilizados :memo:](#Algoritmos)
 * [Herramientas Utilizadas :memo:](#Herramientas)
+* [Documentacion :memo:](#Documentacion)
 * [Autores :memo:](#autores)
 * [Bibliografía :memo:](#bibliografía)
 
@@ -37,10 +38,12 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
    <img src="https://i.pinimg.com/736x/2a/e1/8a/2ae18a66f89f1dc3fff96203288fcb64.jpg" width="80" height="64" >
 </p>
 
+## Documentacion
+* [Algoritmos de Búsqueda y Ordenamiento](https://docs.google.com/document/d/1ux4liVOEjweu7xFUESGndhnByRdLLyz-AMk8NfSAN0w)
 
 ## Casos de Prueba de JS
 _Puedes visualizar las pruebas documentadas, ejecutadas y descritas de la documentacion en el siguiente enlace:_
-*[Casos de Prueba JS](https://replit.com/@MARLON-STIVENS1/Algoritmos-de-Ordenamiento-y-Busqueda?v=1)
+* [Casos de Prueba JS](https://replit.com/@MARLON-STIVENS1/Algoritmos-de-Ordenamiento-y-Busqueda?v=1)
 
  ## Autores 
 * CARLOS DUVAN LABRADOR H - 1151808
