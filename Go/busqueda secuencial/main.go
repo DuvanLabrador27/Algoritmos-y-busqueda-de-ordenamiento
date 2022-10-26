@@ -4,7 +4,7 @@ import "fmt"
 
 func main(){
     numeros := []int{5, 10, 15, 20, 25}
-    fmt.Println(BusquedaSecuencial(numeros, 5)) 
+    fmt.Println(BusquedaSecuencial(numeros, 10)) 
 }
 
 func BusquedaSecuencial(numeros []int, valor int) int {
